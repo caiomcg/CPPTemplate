@@ -14,6 +14,6 @@ namespace Utils {
         for (size_t i = 0; i < size; ++i) stream << arr[i] << (i != size - 1 ? ", " : "");
         stream << "]\n";
     }
-};
+}
 
 #endif // define UTILS_UTILS_H
