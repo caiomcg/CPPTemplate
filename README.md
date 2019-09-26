@@ -2,6 +2,8 @@
 
 This project gives you a complete C++17 template. Remove the example in the src folder and start coding! The only requisite is that you have a compiler that supports C++17 and Make. 
 
+[READ THE DEVELOPER NOTES](https://github.com/caiomcg/CPPTemplate/blob/master/doc/developer-notes.md)
+
 
 ## Make options
 
